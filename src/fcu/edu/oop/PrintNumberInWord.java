@@ -55,7 +55,7 @@ public class PrintNumberInWord {
         	
 	
 	
-	
+		 scannerObject.close(); 
 	}
 
 }

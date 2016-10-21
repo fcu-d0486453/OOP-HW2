@@ -17,7 +17,8 @@ public class CheckOddEven {
 			System.out.println("The input integer is Even Number.");
 		else
 			System.out.println("The input integer is Odd Number."); 
-			
+		 
+		scannerObject.close(); 	
 	}
 
 }

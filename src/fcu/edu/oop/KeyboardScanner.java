@@ -28,7 +28,7 @@ public class KeyboardScanner {
 		System.out.print(", the multiplication of "+a);
 		System.out.printf("and %f is %e",b,b);
 		
-		 
+		 scannerObject.close(); 
 	}
 
 }
